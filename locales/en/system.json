@@ -1,0 +1,18 @@
+{
+    "event": {
+        "autocomplete": { 
+            "fail": "> Oops! Something went wrong while trying to run this command. Please try again." 
+        },
+        "button": {
+            "fail": "> Oops! We encountered an error while processing this button. Please try again."
+        },
+        "modal": {
+            "fail": "> Oops! We encountered an error while processing this button. Please try again."
+        },
+        "command": {
+            "fail": "> Oops! There was an error executing this command. Please try again later.",
+            "devOnly": "> Sorry! This command is reserved for the developer of {{client}}. Please contact them for assistance.",
+            "underDev": "> Heads up! This bot is currently under development. Please check back later."
+             }
+    }
+}

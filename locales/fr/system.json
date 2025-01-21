@@ -1,0 +1,18 @@
+{
+    "event": {
+        "autocomplete": { 
+            "fail": "> Oups ! Quelque chose s'est mal passé lors de l'exécution de cette commande. Veuillez réessayer." 
+        },
+        "button": {
+            "fail": "> Oups ! Nous avons rencontré une erreur lors du traitement de ce bouton. Veuillez réessayer."
+        },
+        "modal": {
+            "fail": "> Oups ! Nous avons rencontré une erreur lors du traitement de ce modal. Veuillez réessayer."
+        },
+        "command": {
+            "fail": "> Oups ! Une erreur est survenue lors de l'exécution de cette commande. Veuillez réessayer plus tard.",
+            "devOnly": "> Désolé ! Cette commande est réservée au développeur de {{client}}. Veuillez le contacter pour obtenir de l'aide.",
+            "underDev": "> Attention ! Ce bot est actuellement en cours de développement. Veuillez revenir plus tard."
+              }
+    }
+}
