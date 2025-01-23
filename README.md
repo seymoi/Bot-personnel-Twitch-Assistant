@@ -43,6 +43,7 @@ Streamer Assistant Bot est un bot Discord développé avec [Discord.js](https://
 ## 🚀 Futures Améliorations
 - [x] Notifications de stream  
 - [x] Distribution de clés Steam  
+- [x] Système de planning (edit et view)
 - [ ] Commandes de configurations
 - [ ] Commandes de modération avancées  
 - [ ] Intégration pour un [futur chat bot twitch](https://github.com/seymoi/Twitch-Bot)
