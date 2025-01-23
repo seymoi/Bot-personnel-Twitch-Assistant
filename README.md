@@ -159,6 +159,7 @@ Un grand merci à la communauté et à tous ceux qui contribuent au développeme
 **Contact :** Pour toute question ou suggestion, veuillez me contacter via Discord (*seymoi*) ouvrir une *issue* sur GitHub.
 
 **Ma chaine Twitch :** https://twitch.tv/seymoii
-
+**Mon serveur discord :** https://discord.gg/9pXNwkQHN8
+ 
 ## **Laisser une étoile sur le projet si vous l'aimez et ça donne énormément de force !**
 
