@@ -5,8 +5,7 @@ Streamer Assistant Bot est un bot Discord développé avec [Discord.js](https://
 ---
 
 ## Fonctionnalités principales
-<details>
-  <summary>Afficher les fonctionnalités</summary>
+
 ### 🎥 STREAM
  **📢 Notifications de Stream**
 > - Le bot envoie automatiquement une notification lorsqu’un stream commence, avec un message personnalisé et le lien vers le stream.
@@ -21,7 +20,7 @@ Streamer Assistant Bot est un bot Discord développé avec [Discord.js](https://
 ### 🛠️ Gestion de Serveur Discord
 - **Acceuil et rôles automatique :** Acceuillez vos membres avec une image personnalisée et leur attribuer un rôle automatique.
 - **Statistiques et classements :** Affichez les utilisateurs les plus actifs dans différentes catégories, comme le nombre de messages envoyés ou le temps en vocal.
-</details>
+
 ---
 
 ## 🚀 Futures Améliorations
@@ -39,8 +38,6 @@ Streamer Assistant Bot est un bot Discord développé avec [Discord.js](https://
 - Une clé API Twitch pour les notifications de stream.
 ---
 ## Installation
-<details>
-  <summary>Afficher les étapes.</summary>
 1. Clonez ce dépôt :
 ```bash
 git clone https://github.com/votre-utilisateur/votre-repo.git
@@ -106,7 +103,7 @@ module.exports = {
 ```bash
 node index.js
 ```
-</details>
+
 ---
 
 ## 🤝 Contribuer
