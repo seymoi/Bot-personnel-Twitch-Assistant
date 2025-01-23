@@ -24,6 +24,15 @@ Streamer Assistant Bot est un bot Discord développé avec [Discord.js](https://
 - **Acceuil et rôles automatique :** Acceuillez vos membres avec une image personnalisée et leur attribuer un rôle automatique.
 - **Statistiques et classements :** Affichez les utilisateurs les plus actifs dans différentes catégories, comme le nombre de messages envoyés ou le temps en vocal.
 
+### 🙋‍♂️ Intéractions avec vos membres
+- **Succès :** Système de succès simple.
+- **Levels :** Système complet d'xp.
+- **Monnaie/Casino :** Une monnaie pour que vos membres s'amusent en votre absence.
+
+
+### ⚙️ Backups automatiques
+- **Les données sont sauvegardées :** Une backup est mise en place pour garder les données de votre base de données.
+
 ---
 
 ## 🖼️ Preview
@@ -37,6 +46,12 @@ Streamer Assistant Bot est un bot Discord développé avec [Discord.js](https://
 <img src="/assets/preview/img4.png" alt="key2"><br />
   <h3>Planning<br />
 <img src="/assets/preview/img5.png" alt="Planning" ><br />
+  <h3>Succès<br />
+<img src="/assets/preview/img6.png" alt="Success" ><br />
+  <h3>Level/Xp<br />
+<img src="/assets/preview/img7.png" alt="Level" ><br />
+  <h3>Monnaie<br />
+<img src="/assets/preview/img8.png" alt="currency" ><br />
 </details>
 
 ---
@@ -45,6 +60,8 @@ Streamer Assistant Bot est un bot Discord développé avec [Discord.js](https://
 - [x] Notifications de stream  
 - [x] Distribution de clés Steam  
 - [x] Système de planning (edit et view)
+- [x] Backups base de données
+- [ ] Gestion plus complète
 - [ ] Commandes de configurations
 - [ ] Commandes de modération avancées  
 - [ ] Intégration pour un [futur chat bot twitch](https://github.com/seymoi/Twitch-Bot)
