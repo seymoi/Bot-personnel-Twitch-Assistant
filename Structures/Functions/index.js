@@ -6,4 +6,5 @@ const TiwtchAlert = require("./TwitchAlert");
 const progressBar = require("./createBar");
 const { LevelXp } = require("./LevelXp");
 const msToHMS = require("./msToHMS");
-module.exports = { jsonFind, Logger, genCode, PaginationEmbed, TiwtchAlert, progressBar, LevelXp, msToHMS };
+const { SteamInfo } = require("./SteamInfo");
+module.exports = { jsonFind, Logger, genCode, PaginationEmbed, TiwtchAlert, progressBar, LevelXp, msToHMS, SteamInfo };

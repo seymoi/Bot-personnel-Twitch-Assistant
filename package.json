@@ -15,6 +15,7 @@
   "description": "Discord.js V.14 Bot asssitant Twitch Alert etc...",
   "dependencies": {
     "ascii-table": "^0.0.9",
+    "axios": "^1.7.9",
     "canvas": "^2.11.2",
     "child_process": "^1.0.2",
     "colors": "^1.4.0",
