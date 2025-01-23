@@ -28,6 +28,7 @@ Streamer Assistant Bot est un bot Discord développé avec [Discord.js](https://
 - [x] Distribution de clés Steam  
 - [ ] Commandes de configurations
 - [ ] Commandes de modération avancées  
+- [ ] Intégration pour un futur chat bot twitch
 
 ---
 
@@ -120,5 +121,5 @@ Un grand merci à la communauté et à tous ceux qui contribuent au développeme
 
 **Ma chaine Twitch :** https://twitch.tv/seymoii
 
-##**Laisser une étoile sur le projet si vous l'aimez et ça donne énormément de force !**
+## **Laisser une étoile sur le projet si vous l'aimez et ça donne énormément de force !**
 
