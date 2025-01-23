@@ -26,11 +26,12 @@ Streamer Assistant Bot est un bot Discord développé avec [Discord.js](https://
 ---
 
 ## 🖼️ Preview
-
+<details>
+  <summary>Afficher les fonctionnalités</summary>
 <img src="/assets/preview/img1.png" alt="Notif1" width="500" height="500"><br />
 <img src="/assets/preview/img2.png" alt="Notif2" width="500" height="500"><br />
 <h3>Notifications de stream<br />
-
+</details>
 ---
 
 ## 🚀 Futures Améliorations
