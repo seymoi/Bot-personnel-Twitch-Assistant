@@ -9,14 +9,12 @@ Streamer Assistant Bot est un bot Discord développé avec [Discord.js](https://
 ## Fonctionnalités principales
 
 ### 🎥 STREAM
-**📢 Notifications de Stream**
-    - Le bot envoie automatiquement une notification lorsqu’un stream commence, avec un message personnalisé et le lien vers le stream.
-
-**📆 Gestion de planning**
-    - Gérer votre planning facilement pour tenir vos viewers au courant.
-    
-**🪙 Monnaie**
-    - Une monnaie obtenable en envoyant des messages ou en restant en vocal.
+- **📢 Notifications de Stream**
+    > - Le bot envoie automatiquement une notification lorsqu’un stream commence, avec un message personnalisé et le lien vers le stream.
+- **📆 Gestion de planning**
+    > - Gérer votre planning facilement pour tenir vos viewers au courant.
+- **🪙 Monnaie**
+    > - Une monnaie obtenable en envoyant des messages ou en restant en vocal.
 
 ### 🎁 Interactions avec les Viewers
 - **Cadeaux et récompenses :** Offrez des clés Steam ou d’autres récompenses à vos viewers directement sur Discord.
