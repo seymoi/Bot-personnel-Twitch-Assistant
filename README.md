@@ -8,11 +8,11 @@ Streamer Assistant Bot est un bot Discord développé avec [Discord.js](https://
 
 ### 🎥 STREAM
  **📢 Notifications de Stream**
-> - Le bot envoie automatiquement une notification lorsqu’un stream commence, avec un message personnalisé et le lien vers le stream.
+ - Le bot envoie automatiquement une notification lorsqu’un stream commence, avec un message personnalisé et le lien vers le stream.
  **📆 Gestion de planning**
-> - Gérer votre planning facilement pour tenir vos viewers au courant.
+ - Gérer votre planning facilement pour tenir vos viewers au courant.
  **🪙 Monnaie**
-> - Une monnaie obtenable en envoyant des messages ou en restant en vocal.
+ - Une monnaie obtenable en envoyant des messages ou en restant en vocal.
 
 ### 🎁 Interactions avec les Viewers
 - **Cadeaux et récompenses :** Offrez des clés Steam ou d’autres récompenses à vos viewers directement sur Discord.
@@ -28,7 +28,7 @@ Streamer Assistant Bot est un bot Discord développé avec [Discord.js](https://
 - [x] Distribution de clés Steam  
 - [ ] Commandes de configurations
 - [ ] Commandes de modération avancées  
-- [ ] Intégration pour un futur chat bot twitch
+- [ ] Intégration pour un [futur chat bot twitch](https://github.com/seymoi/Twitch-Bot)
 
 ---
 
@@ -40,7 +40,7 @@ Streamer Assistant Bot est un bot Discord développé avec [Discord.js](https://
 ## Installation
 1. Clonez ce dépôt :
 ```bash
-git clone https://github.com/votre-utilisateur/votre-repo.git
+git clone https://github.com/seymoi/Bot-personnel-Twitch-Assistant.git
 cd votre-repo
 ```
 2. Installez les dépendances :
