@@ -1,5 +1,6 @@
 const { enable } = require("colors");
 const { Schema, model } = require("mongoose");
+const { twitch } = require("../../config");
 
 const MemberSchema = new Schema({
     guildId: {
@@ -9,6 +10,10 @@ const MemberSchema = new Schema({
     userId: {
         type: String,
         required: true,
+    },
+    twitchId: {
+        type: String,
+        default: null,
     },
     xp: {
         type: Number,

@@ -18,7 +18,7 @@ class Balance extends Command {
                         .setRequired(false)),
 
             options: {
-  
+
                 //  devOnly: false,
             },
         });
@@ -55,6 +55,7 @@ class Balance extends Command {
             )
             .setTitle(`\`💳 Solde ${target ? `de ${target.username}` : ""}                        \``)
             .setDescription(`🪙 \`${currency}\` coins.\n<:currency:1319403790281080843> \`${StreamCurrency}\` stream coins.`)
+            .setFooter({ text: `Compte twitch: ${data.twitchId || "Non lié"}` })
             .setTimestamp()
         await interaction.reply({ embeds: [embed] })
     }
