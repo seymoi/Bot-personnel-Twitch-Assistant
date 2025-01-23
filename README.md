@@ -3,7 +3,8 @@
 Streamer Assistant Bot est un bot Discord développé avec [Discord.js](https://discord.js.org/)  pour aider les streamers à interagir avec leur communauté et à gérer efficacement leur serveur Discord. Ce bot offre des fonctionnalités personnalisées adaptées aux besoins des créateurs de contenu tout en apportant des outils généraux pour la gestion d’un serveur.
 
 
-*<3 [Base de l'Handler](https://github.com/jasonmidul/Discord.js-v14-Bot-Handler) prise de [Jason Midul](https://github.com/jasonmidul) merci a lui !*
+<3 [Base de l'Handler](https://github.com/jasonmidul/Discord.js-v14-Bot-Handler) prise de [Jason Midul](https://github.com/jasonmidul) merci a lui !
+
 ---
 
 ## Fonctionnalités principales
