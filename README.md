@@ -50,6 +50,7 @@ Streamer Assistant Bot est un bot Discord développé avec [Discord.js](https://
 <img src="/assets/preview/img6.png" alt="Success" ><br />
   <h3>Level/Xp<br />
 <img src="/assets/preview/img7.png" alt="Level" ><br />
+<img src="/assets/preview/img11.png" alt="Level2" ><br />
   <h3>Monnaie<br />
 <img src="/assets/preview/img8.png" alt="currency" ><br />
 <img src="/assets/preview/img9.png" alt="currency2" ><br />
